@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['0', '1', '2']
+
+roboflow:
+  workspace: yolov5-lw9t6
+  project: broken-trees
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolov5-lw9t6/broken-trees/dataset/1
