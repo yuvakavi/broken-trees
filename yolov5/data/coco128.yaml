@@ -1,0 +1,13 @@
+names:
+- '0'
+- '1'
+- '2'
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: ' broken-trees'
+  url: https://universe.roboflow.com/yolov5-lw9t6/street-light-data/dataset/1
+  version: 1
+  workspace: ' yolov5-lw9t6'
+train: /content/drive/MyDrive/Broken_Trees DATA/train/images
+val: /content/drive/MyDrive/Broken_Trees DATA/valid/images
